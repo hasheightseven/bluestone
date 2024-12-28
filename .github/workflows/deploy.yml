@@ -50,6 +50,6 @@ jobs:
       # Ensure these Git configurations are correct for automated commits
       - name: Deploy to GitHub Pages
         run: |
-          npx gh-pages -d build -r https://x-access-token:${{ secrets.neon_monkey_bluestone }}@github.com/hasheightseven/popeye.git
+          npx gh-pages -d build -r https://x-access-token:${{ secrets.neon_monkey_bluestone }}@github.com/hasheightseven/bluestone.git
         env:
           GH_TOKEN: ${{ secrets.neon_monkey_bluestone }}  # Ensure this is passed from your secrets
