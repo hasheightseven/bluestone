@@ -7,7 +7,20 @@
 .App {
   width: -webkit-fill-available;
   height: 100vmin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .AppH1 {
   width: -webkit-fill-available;
+}
+
+.AppDiv {
+  width: inherit;
+  height: inherit;
+}
+
+#App-Overlay {
+  background-color: #92112626;
 }
