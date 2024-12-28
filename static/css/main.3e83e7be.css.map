@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.3e83e7be.css","mappings":"AAAA,EAGE,qBAAsB,CAFtB,QAAS,CACT,SAEF,CAEA,KAEE,cACF,CACA,YAHE,4BAKF","sources":["App.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n.App {\n  width: -webkit-fill-available;\n  height: 100vmin;\n}\n.AppH1 {\n  width: -webkit-fill-available;\n}\n"],"names":[],"sourceRoot":""}
