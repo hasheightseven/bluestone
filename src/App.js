@@ -3,9 +3,17 @@ import "./App.css";
 
 function App(){
   return (
-    <div className="App">
-        <h1 className="AppH1">ello bluestone</h1>
+    <main className="App">
+      <div className=".AppDiv" id="App-Overlay">
+        <h1 className="AppH1">bluestone</h1>
+        <div className="AppDiv" id="App-Login">
+          <h2 className="AppH2">login</h2>
+          <input name="username" type="text" placeholder="username" />
+          <input type="password" name="password" placeholder="password" />
+          <button type="button" className="AppBtn" id="App-login-btn">submit</button>
+        </div>
     </div>
+    </main>
   );
 }
 
