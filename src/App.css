@@ -12,6 +12,14 @@ html, body {
   height: 100vh;
 }
 
+input {
+  background: transparent;
+  border: none;
+  font-size: 8vmin;
+  font-family: sans-serif;
+}
+
+
 .App {
   margin: 2.6vmin;
   padding: 2.6vmin;
