@@ -19,7 +19,11 @@ input {
   font-family: sans-serif;
 }
 
-
+#App-Login {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 .App {
   margin: 2.6vmin;
   padding: 2.6vmin;
