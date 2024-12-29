@@ -36,7 +36,10 @@ input {
 
 .AppH1 {
   font-family: sans-serif;
-  font-size: 8vmin;
+  font-size: 12vmin;
+  text-transform: uppercase;
+  letter-spacing: 1.1vmin;
+  text-align: center;
 }
 
 .AppDiv {
