@@ -4,8 +4,10 @@
   box-sizing: border-box;
 }
 
+html, body {
+  background-color: #921126;
+
 .App {
-  width: -webkit-fill-available;
   height: 100vmin;
   display: flex;
   align-items: center;
@@ -13,7 +15,8 @@
 }
 
 .AppH1 {
-  width: -webkit-fill-available;
+  font-family: sans-serif;
+  font-size: 8vmin;
 }
 
 .AppDiv {
