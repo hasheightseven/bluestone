@@ -40,6 +40,10 @@ input {
   text-transform: uppercase;
   letter-spacing: 1.1vmin;
   text-align: center;
+  color: #921126;
+  stroke: #112692;
+  stroke-width: 2.6vmin;
+  
 }
 
 .AppDiv {
