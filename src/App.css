@@ -23,6 +23,7 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  width: -webkit-fill-available;
 }
 .App {
   margin: 2.6vmin;
