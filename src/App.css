@@ -6,12 +6,18 @@
 
 html, body {
   background-color: #921126;
-
-.App {
-  height: 100vmin;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.App {
+  margin: 2.6vmin;
+  padding: 2.6vmin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #92112626;
 }
 
 .AppH1 {
@@ -25,5 +31,5 @@ html, body {
 }
 
 #App-Overlay {
-  background-color: #92112626;
+  background-color: #00000008;
 }
