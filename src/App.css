@@ -17,12 +17,19 @@ input {
   border: none;
   font-size: 8vmin;
   font-family: sans-serif;
+  width: -webkit-fill-avaialable;
+  height: 8vmin;
 }
-
+button {
+  background-color: #112692;
+  width: -webkit-fill-available;
+  height: 8vmin;
+  color: #921126;
+}
 #App-Login {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   width: -webkit-fill-available;
 }
 .App {
