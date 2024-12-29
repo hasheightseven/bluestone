@@ -26,8 +26,7 @@ input {
   width: -webkit-fill-available;
 }
 .App {
-  margin: 2.6vmin;
-  padding: 2.6vmin;
+  padding: 6vmin;
   display: flex;
   align-items: center;
   justify-content: center;
