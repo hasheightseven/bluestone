@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bluestone/static/css/main.7e33e18e.css",
+    "main.css": "/bluestone/static/css/main.9d37ff72.css",
     "main.js": "/bluestone/static/js/main.8395a808.js",
     "static/js/453.678ada5e.chunk.js": "/bluestone/static/js/453.678ada5e.chunk.js",
     "index.html": "/bluestone/index.html",
-    "main.7e33e18e.css.map": "/bluestone/static/css/main.7e33e18e.css.map",
+    "main.9d37ff72.css.map": "/bluestone/static/css/main.9d37ff72.css.map",
     "main.8395a808.js.map": "/bluestone/static/js/main.8395a808.js.map",
     "453.678ada5e.chunk.js.map": "/bluestone/static/js/453.678ada5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e33e18e.css",
+    "static/css/main.9d37ff72.css",
     "static/js/main.8395a808.js"
   ]
 }
