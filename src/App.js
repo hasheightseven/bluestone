@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Login from "./Login.js";
 
 function App(){
   return (
@@ -9,10 +10,7 @@ function App(){
           <h1 className="AppH1">bluestone</h1>
         </nav>
         <div className="AppDiv" id="App-Login">
-          <h2 className="AppH2">login</h2>
-          <input name="username" type="text" placeholder="username" />
-          <input type="password" name="password" placeholder="password" />
-          <button type="button" className="AppBtn" id="App-login-btn">submit</button>
+          <Login />
         </div>
     </div>
     </main>
