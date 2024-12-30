@@ -24,9 +24,9 @@ input {
 }
 button {
   background-color: #112692;
-  width: -webkit-fill-available;
-  height: 8vmin;
+  height: 4vmin;
   color: #921126;
+  padding: 0 2.6vmin;
 }
 #App-Login {
   display: flex;
@@ -47,10 +47,7 @@ button {
   text-transform: uppercase;
   letter-spacing: 1.1vmin;
   text-align: center;
-  color: #921126;
-  stroke: #112692;
-  stroke-width: 2.6vmin;
-  
+  color: #112692;
 }
 
 .AppDiv {
