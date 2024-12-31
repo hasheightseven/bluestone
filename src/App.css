@@ -5,16 +5,10 @@
 }
 
 html, body {
-  background-color: #921126;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden;
+  background-color: #92112687;
 }
 
-input {
+#nm-username, #nm-password {
   background: transparent;
   border: none;
   font-size: 8vmin;
@@ -22,18 +16,21 @@ input {
   width: -webkit-fill-avaialable;
   height: 8vmin;
 }
-button {
+
+#nm-button {
   background-color: #112692;
   height: 4vmin;
   color: #921126;
   padding: 0 2.6vmin;
 }
+
 #App-Login {
   display: flex;
   align-items: center;
   justify-content: center;
   width: -webkit-fill-available;
 }
+
 .App {
   display: flex;
   align-items: center;
