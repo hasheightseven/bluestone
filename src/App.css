@@ -10,6 +10,8 @@
 }
 .LandingBluestone {
   display: inherit;
+  align-items: center;
+  justify-content: space-around;
   flex-direction: column;
   position: relative;
   z-index: 999;
