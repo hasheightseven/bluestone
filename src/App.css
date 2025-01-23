@@ -3,3 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.LandingBluestone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 999;
+  width: 100vmin;
+  height: 100vmin;
+  background: radial-gradient(87deg, #92112687, #95042978);
+}
