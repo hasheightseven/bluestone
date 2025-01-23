@@ -1,5 +1,3 @@
-import "../App.css";
-
 function LandingBluestone() {
     return (
         <div className="LandingBluestone">
