@@ -12,5 +12,5 @@
   z-index: 999;
   width: 100vmin;
   height: 100vmin;
-  background: radial-gradient(87deg, #92112687, #95042978);
+  background-color: radial-gradient(87deg, #92112687, #95042978);
 }
