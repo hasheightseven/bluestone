@@ -13,16 +13,15 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  position: relative;
-  z-index: 999;
-  background-color: #92112687;
+  background-color: #73629579;
 }
 .LandingBluestoneTitle {
-  font-size: 8vmin;
+  font-size: 2.6vmin;
   color: #11922687;
-  letter-spacing: 2.6vmin;
+  letter-spacing: 1.1vmin;
+  text-align: center;
+  
 }
-
 .LandingBluestoneButtons {
   background-color: #92112687;
 }
