@@ -5,9 +5,9 @@ import LandingBluestone from "./components/LandingBluestone.js";
 
 function App(){
   return (
-    <main className="App">
+    <div className="App">
         <LandingBluestone />
-    </main>
+    </div>
   );
 }
 
