@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import LandingBluestone from "components/LandingBluestone.js";
+import LandingBluestone from "./components/LandingBluestone.js";
 
 
 function App(){
