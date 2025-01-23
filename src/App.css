@@ -14,3 +14,14 @@
   height: 100vmin;
   background-color: radial-gradient(87deg, #92112687, #95042978);
 }
+
+.LandingBluestoneTitle {
+  width: 100vmin;
+  font-size: 8vmin;
+  color: #11922687;
+  letter-spacing: 2.6vmin;
+}
+
+.LandingBluestoneButtons {
+  width: 100vmin;
+}
