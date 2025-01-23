@@ -11,24 +11,20 @@
 .LandingBluestone {
   display: inherit;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   flex-direction: column;
   position: relative;
   z-index: 999;
-  width: 100vmin;
-  height: 100vmin;
-  background-color: radial-gradient(87deg, #92112687, #95042978);
+  background-color: #92112687;
 }
-
 .LandingBluestoneTitle {
-  width: 100vmin;
   font-size: 8vmin;
   color: #11922687;
   letter-spacing: 2.6vmin;
 }
 
 .LandingBluestoneButtons {
-  width: 100vmin;
+  background-color: #92112687;
 }
 button {
   font-size: 2.6vmin;
