@@ -6,12 +6,16 @@
 html, body {
   background-color: #000;
 }
+#neon-monkey-bluestone {
+  background-color: #000;
+}
 .App {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .LandingBluestone {
+  height: 100vmin;
   display: inherit;
   align-items: center;
   justify-content: center;
