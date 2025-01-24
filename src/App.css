@@ -44,3 +44,12 @@ button {
   height: 8vmin;
   border-radius: 26vmin;
 }
+.BottomMenu {
+  position: sticky;
+  bottom: 0;
+  height: 8vmin;
+  width: -webkit-fill-available;
+  background-color: #00000087;
+  display: inherit;
+  justify-content: space-evenly;
+}
