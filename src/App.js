@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import LandingBluestone from "./components/LandingBluestone.js";
-import BottomMenu from "./components/BottomMenu.js";
+import BottomMenu, { addeventlisteners } from "./components/BottomMenu.js";
 
 function App(){
   return (
@@ -11,5 +11,5 @@ function App(){
     </div>
   );
 }
-
+addeventlisteners();
 export default App;
