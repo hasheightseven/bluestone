@@ -28,7 +28,7 @@ async function addeventlisteners(){
     });
 }
 
-export addeventlisteners;
+export { addeventlisteners };
 
 
 export default BottomMenu;
