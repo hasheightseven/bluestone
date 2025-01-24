@@ -20,7 +20,6 @@ html, body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: #73629579;
 }
 .LandingBluestoneTitle {
   font-size: 8vmin;
