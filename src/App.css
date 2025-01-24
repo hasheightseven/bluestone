@@ -31,9 +31,17 @@ html, body {
 }
 .LandingBluestoneButtons {
   background-color: #92112687;
+  display: inherit;
+  justify-content: space-evenly;
+  align-items: center;
 }
 button {
-  font-size: 2.6vmin;
+  font-size: 3.6vmin;
   color: #abcdef92;
-  background-color: #00192887;
+  background-color: #00192892;
+  border-style: none;
+  border-color: transparent;
+  width: 26vmin;
+  height: 8vmin;
+  border-radius: 26vmin;
 }
