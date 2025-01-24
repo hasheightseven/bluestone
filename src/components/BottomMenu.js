@@ -20,4 +20,15 @@ function BottomMenu() {
     );
 }
 
+async function addeventlisteners(){
+    const bmchats = document.querySelector(".BottomMenuChats");
+    bmchats.addEventListener("click", () => {
+        //page to go to
+        console.log("to-do chat list page");
+    });
+}
+
+export addeventlisteners;
+
+
 export default BottomMenu;
