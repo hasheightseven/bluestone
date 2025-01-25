@@ -27,7 +27,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-800">
       <header className="p-4 bg-blue-600 text-white text-center">
-        <h1 className="text-2xl font-bold">Responsive PWA</h1>
+        <h1 className="text-2xl font-bold">neon monkey</h1>
       </header>
       <main className="p-4">
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
