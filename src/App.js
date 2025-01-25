@@ -1,5 +1,5 @@
 
-import React from "react";
+import React, { useRef, useEffect } from "react";
 import "./App.css";
 import NavbarBluestone from "./components/NavbarBluestone.js";
 import LandingBluestone from "./components/LandingBluestone.js";
