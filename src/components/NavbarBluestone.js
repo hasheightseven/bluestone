@@ -4,10 +4,10 @@ function NavbarBluestone() {
     return (
         <nav>
             <div style={{
-                width: "2.6vmin";
-                height: "26vmin";
-                margin: "8vmin 0 0 8vmin";
-                background-color: "#abcdef";
+                width: "2.6vmin",
+                height: "26vmin",
+                margin: "8vmin 0 0 8vmin",
+                background-color: "#abcdef"
             }} id="initial-div"></div>
             <div className="nav-center-space"></div>
             <div className="nav-burger-menu">
