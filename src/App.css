@@ -9,6 +9,12 @@ html, body {
 #neon-monkey-bluestone {
   background-color: #000;
 }
+#initial-bluestone {
+  width: "2.6vmin";
+  height: "26vmin";
+  margin: "8vmin 0 0 8vmin";
+  background-color: "#abcdef";
+}
 .App {
   display: flex;
   align-items: center;
