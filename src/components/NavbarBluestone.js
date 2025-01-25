@@ -3,7 +3,7 @@ function NavbarBluestone() {
     //const logolineone = document.createDlement("div");
     return (
         <nav>
-            ${{ logo }}
+            
             <div className="nav-center-space"></div>
             <div className="nav-burger-menu">
                 <div className="nav-bm-line1"></div>
