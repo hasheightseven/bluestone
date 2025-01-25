@@ -15,6 +15,11 @@ html, body {
   justify-content: center;
   flex-direction: column;
 }
+.navbar-bluestone {
+  width: 8em;
+  height: auto;
+  background-color: #ffffff49;
+}
 .LandingBluestone {
   height: 100vmin;
   display: inherit;
