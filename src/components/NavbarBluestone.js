@@ -7,8 +7,8 @@ function NavbarBluestone() {
                 width: "2.6vmin",
                 height: "26vmin",
                 margin: "8vmin 0 0 8vmin",
-                background-color: "#abcdef",
-            }} id="initial-div"></div>
+                background-color: "#abcdef" }}
+                id="initial-div"></div>
             <div className="nav-center-space"></div>
             <div className="nav-burger-menu">
                 <div className="nav-bm-line1"></div>
