@@ -12,7 +12,6 @@ function App(){
     <div className="App">
         <NavbarBluestone className="navbar-bluestone" />
         <LandingBluestone className="landing-bluestone" />
-        <CanvasBluestone />
         <ContactBluestone className="contact-bluestone" />
         <BottomMenu className="bottom-menu" />
     </div>
