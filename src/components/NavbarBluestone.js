@@ -1,5 +1,5 @@
 function NavbarBluestone() {
-    const logo = document.createElement("div");
+    //const logo = document.createElement("div");
     //const logolineone = document.createDlement("div");
     return (
         <nav>
