@@ -4,7 +4,7 @@ import "./App.css";
 import NavbarBluestone from "./components/NavbarBluestone.js";
 import LandingBluestone from "./components/LandingBluestone.js";
 import ContactBluestone from "./components/ContactBluestone.js";
-import CanvasBluestone from "./components/CanvasBluestone.js";
+//import CanvasBluestone from "./components/CanvasBluestone.js";
 import CategoryList from "./components/CategoryList.js";
 import BottomMenu, { addeventlisteners } from "./components/BottomMenu.js";
 
