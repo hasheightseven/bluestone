@@ -50,7 +50,7 @@ button {
   height: 8vmin;
   border-radius: 26vmin;
 }
-.BottomMenu {
+.bottom-menu {
   position: sticky;
   bottom: 0;
   height: 8vmin;
