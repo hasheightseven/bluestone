@@ -1,3 +1,5 @@
+import React, { useRef, useEffect } from "react";
+
 const CanvasBluestone = () => {
   const canvasRef = useRef(null);
 
